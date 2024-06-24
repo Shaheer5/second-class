@@ -14,7 +14,7 @@ const App = () => {
           </a>
 
           <button
-            className="navbar-toggler"
+            className="navbar-toggler white"
             type="button"
             data-bs-toggle="collapse"
             data-bs-target="#main-nav"
